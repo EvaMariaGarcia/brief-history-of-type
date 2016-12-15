@@ -8,6 +8,7 @@ Brief history of type homework
 - [Version 2](http://evamariagarcia.github.io/brief-history-of-type/history-of-type2.html) - Added navigation
 - [History List](http://evamariagarcia.github.io/brief-history-of-type/history-list.html)
 - [Version 3](http://evamariagarcia.github.io/brief-history-of-type/history-of-type3.html) - Added Pictures 
+
 14th November 2016
 ------------------
 - [History Table](http://evamariagarcia.github.io/brief-history-of-type/History-table.html)
