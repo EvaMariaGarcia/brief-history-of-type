@@ -1,5 +1,5 @@
-Brief history of type homework 
-------------------------------
+History of type homework 
+------------------------
 31st October 2016
 - [Version 1](http://evamariagarcia.github.io/brief-history-of-type/history-of-type.html)
 
